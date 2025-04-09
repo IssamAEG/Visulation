@@ -1,0 +1,151 @@
+year,country,attack_type,count
+2018,United States of America,Phishing,320
+2018,United States of America,Ransomware,270
+2018,United States of America,Malware,500
+2018,India,Phishing,150
+2018,India,Ransomware,120
+2018,India,Malware,320
+2018,United Kingdom,Phishing,200
+2018,United Kingdom,Ransomware,180
+2018,United Kingdom,Malware,300
+2019,United States of America,Phishing,350
+2019,United States of America,Ransomware,300
+2019,United States of America,Malware,600
+2019,India,Phishing,200
+2019,India,Ransomware,170
+2019,India,Malware,400
+2019,United Kingdom,Phishing,220
+2019,United Kingdom,Ransomware,190
+2019,United Kingdom,Malware,320
+2020,United States of America,Phishing,400
+2020,United States of America,Ransomware,350
+2020,United States of America,Malware,700
+2020,India,Phishing,250
+2020,India,Ransomware,220
+2020,India,Malware,450
+2020,United Kingdom,Phishing,240
+2020,United Kingdom,Ransomware,220
+2020,United Kingdom,Malware,380
+2021,United States of America,Phishing,500
+2021,United States of America,Ransomware,450
+2021,United States of America,Malware,800
+2021,India,Phishing,300
+2021,India,Ransomware,270
+2021,India,Malware,550
+2021,United Kingdom,Phishing,280
+2021,United Kingdom,Ransomware,250
+2021,United Kingdom,Malware,400
+2022,United States of America,Phishing,550
+2022,United States of America,Ransomware,500
+2022,United States of America,Malware,900
+2022,India,Phishing,350
+2022,India,Ransomware,320
+2022,India,Malware,600
+2022,United Kingdom,Phishing,320
+2022,United Kingdom,Ransomware,280
+2022,United Kingdom,Malware,450
+2018,China,Phishing,270
+2018,China,Ransomware,150
+2018,China,Malware,450
+2019,China,Phishing,290
+2019,China,Ransomware,200
+2019,China,Malware,500
+2020,China,Phishing,350
+2020,China,Ransomware,300
+2020,China,Malware,550
+2021,China,Phishing,450
+2021,China,Ransomware,350
+2021,China,Malware,600
+2022,China,Phishing,500
+2022,China,Ransomware,400
+2022,China,Malware,700
+2018,Australia,Phishing,180
+2018,Australia,Ransomware,150
+2018,Australia,Malware,320
+2019,Australia,Phishing,200
+2019,Australia,Ransomware,170
+2019,Australia,Malware,350
+2020,Australia,Phishing,220
+2020,Australia,Ransomware,180
+2020,Australia,Malware,400
+2021,Australia,Phishing,250
+2021,Australia,Ransomware,210
+2021,Australia,Malware,450
+2022,Australia,Phishing,270
+2022,Australia,Ransomware,220
+2022,Australia,Malware,500
+2018,France,Phishing,240
+2018,France,Ransomware,210
+2018,France,Malware,380
+2019,France,Phishing,260
+2019,France,Ransomware,230
+2019,France,Malware,400
+2020,France,Phishing,280
+2020,France,Ransomware,250
+2020,France,Malware,450
+2021,France,Phishing,300
+2021,France,Ransomware,270
+2021,France,Malware,500
+2022,France,Phishing,330
+2022,France,Ransomware,290
+2022,France,Malware,550
+2018,Germany,Phishing,250
+2018,Germany,Ransomware,220
+2018,Germany,Malware,350
+2019,Germany,Phishing,270
+2019,Germany,Ransomware,230
+2019,Germany,Malware,380
+2020,Germany,Phishing,290
+2020,Germany,Ransomware,250
+2020,Germany,Malware,400
+2021,Germany,Phishing,320
+2021,Germany,Ransomware,280
+2021,Germany,Malware,450
+2022,Germany,Phishing,350
+2022,Germany,Ransomware,300
+2022,Germany,Malware,500
+2018,Brazil,Phishing,180
+2018,Brazil,Ransomware,160
+2018,Brazil,Malware,310
+2019,Brazil,Phishing,200
+2019,Brazil,Ransomware,170
+2019,Brazil,Malware,350
+2020,Brazil,Phishing,220
+2020,Brazil,Ransomware,180
+2020,Brazil,Malware,400
+2021,Brazil,Phishing,250
+2021,Brazil,Ransomware,210
+2021,Brazil,Malware,450
+2022,Brazil,Phishing,270
+2022,Brazil,Ransomware,230
+2022,Brazil,Malware,500
+2018,South Korea,Phishing,210
+2018,South Korea,Ransomware,190
+2018,South Korea,Malware,350
+2019,South Korea,Phishing,230
+2019,South Korea,Ransomware,200
+2019,South Korea,Malware,380
+2020,South Korea,Phishing,250
+2020,South Korea,Ransomware,220
+2020,South Korea,Malware,400
+2021,South Korea,Phishing,270
+2021,South Korea,Ransomware,240
+2021,South Korea,Malware,450
+2022,South Korea,Phishing,300
+2022,South Korea,Ransomware,260
+2022,South Korea,Malware,500
+2018,Canada,Phishing,190
+2018,Canada,Ransomware,160
+2018,Canada,Malware,300
+2019,Canada,Phishing,210
+2019,Canada,Ransomware,180
+2019,Canada,Malware,330
+2020,Canada,Phishing,230
+2020,Canada,Ransomware,200
+2020,Canada,Malware,350
+2021,Canada,Phishing,250
+2021,Canada,Ransomware,210
+2021,Canada,Malware,380
+2022,Canada,Phishing,270
+2022,Canada,Ransomware,230
+2022,Canada,Malware,400
